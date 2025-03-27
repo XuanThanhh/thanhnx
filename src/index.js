@@ -1,8 +1,8 @@
 const axios = require("axios");
 const cron = require("node-cron");
 
-const BASE_URL = "https://connect.gaia.domains/v1";
-const API_KEY = "<YOUR_API_KEY>";
+const BASE_URL = "https://hkindy.gaia.domains/v1";
+const API_KEY = "gaia-MWRiZTA5ZGYtNmE1Zi00MDliLWJjYzQtZjU3YTQwMDc2ZTQy-EttscSwWza_ep9xs";
 
 const questions = [
 	"What causes rainbows?",
